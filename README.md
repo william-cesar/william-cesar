@@ -7,7 +7,7 @@
 
 #### Contacts
 <div>
-  <a href="www.linkedin.com/in/williamcesarmg" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Linkedin-396aef?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/williamcesarmg" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Linkedin-396aef?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto: williamct.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-e54040?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
