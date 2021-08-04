@@ -15,8 +15,8 @@
 
 <div>
   <a href="https://github.com/william-cesar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-cesar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-cesar&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-cesar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Skills
@@ -57,8 +57,3 @@
   <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
 </div>
-
-
-
-  
- 
