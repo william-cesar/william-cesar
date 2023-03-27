@@ -2,7 +2,7 @@
 
 #### I'm a learner who uses programming to make other people's lives easier. 
 
-- 💻 I've got 2+ years of experience in programming.
+- 💻 I've got 3+ years of experience in programming.
 - 🗣️ Fluent in both Portuguese and English.
 
 #### Contacts
