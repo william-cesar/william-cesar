@@ -14,11 +14,11 @@
 
 ### You can find me on:
 <div>
-  <a href="https://www.linkedin.com/in/williamcesarmg" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/williamcesarmg">
     <img title="Linkedin" src="https://api.iconify.design/logos:linkedin-icon.svg" align="center" alt="linkedin icon" height="30" width="30"/>
   </a>
   &nbsp&nbsp
-  <a href="mailto: williamct.dev@gmail.com" target="_blank" rel="noopener">
+  <a href="mailto: williamct.dev@gmail.com">
     <img title="Gmail" src="https://api.iconify.design/logos:google-gmail.svg" align="center" alt="gmail icon" height="30" width="30"/>
   </a>
 </div>
