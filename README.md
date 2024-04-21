@@ -14,7 +14,7 @@
 
 ### You can find me on:
 <div>
-  <a href="https://www.linkedin.com/in/williamcesarmg">
+  <a href="https://www.linkedin.com/in/williamct">
     <img title="Linkedin" src="https://api.iconify.design/logos:linkedin-icon.svg" align="center" alt="linkedin icon" height="30" width="30"/>
   </a>
   &nbsp&nbsp
