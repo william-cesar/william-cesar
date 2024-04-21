@@ -1,15 +1,18 @@
 # Hi, I'm William!  👋
 
 ### About me
+
 - Software Engineer @ [Azion](https://www.azion.com)
-- +5 years of experience in development
+- +5 years of professional experience, working on projects ranging from single users to hundreds of thousands of them.
 - <div>
     Fluent in both English
     <img title="English" align="center" alt="usa-flag" height="15" width="20" src="https://api.iconify.design/flag:us-4x3.svg"> 
     and Portuguese
     <img title="Portuguese" align="center" alt="brazil-flag" height="15" width="20" src="https://api.iconify.design/flag:br-4x3.svg">
-  </div> 
+  </div>
+- Expertise in delivering impactful and consistent results driving projects to success 
 
+ #### [Professional Github profile](https://github.com/william-tome)
 ---
 
 ### You can find me on:
